@@ -60,16 +60,11 @@ However, full gender parity has not yet been achieved.
 
 ## Repository Structure
 
-/sql_queries
-SQL_GenDip_Dataset_Project.sql
-
-/data
-GenDip_Dataset_1968-2021.csv 
-
-/visualizations
-SQL_GenDip_Dataset_Project.pdf
-
-README.md
+- `SQL_GenDip_Dataset_Project.sql` → sql_queries
+- `GenDip_Dataset_1968-2021.csv` → dataset
+- `GenDip_Dataset_Codebook.pdf` → codebook
+- `SQL_GenDip_Dataset_Project.pdf` → project documentation
+- README.md
 
 
 ---
